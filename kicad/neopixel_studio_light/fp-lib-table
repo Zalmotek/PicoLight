@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "neopixel_studio_light")(type "KiCad")(uri "$(KIPRJMOD)/neopixel_studio_light.pretty")(options "")(descr ""))
+)

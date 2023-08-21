@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "neopixel_studio_light-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/neopixel_studio_light-eagle-import.kicad_sym")(options "")(descr ""))
+)
